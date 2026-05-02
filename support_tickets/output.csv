@@ -1,1 +1,185 @@
-issue,subject,company,response,product_area,status,request_type,justification
+status,product_area,response,justification,request_type
+escalated,account_access,This account_access matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (account_access) requires human escalation,product_issue
+escalated,fraud,This fraud matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (fraud) requires human escalation,product_issue
+escalated,billing,This billing matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (billing) requires human escalation,product_issue
+escalated,billing,This billing matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (billing) requires human escalation,product_issue
+escalated,billing,This billing matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (billing) requires human escalation,bug
+replied,api,"Oracle Recruiting Cloud offers various assessment triggers that can be configured to send assessments to candidates. HackerRank has built the integration to support all these configurations that users can set up in ORC.
+
+_Last updated: Mar 10, 2025, 12:59 PM (Last updated 1 year ago)_
+
+HackerRank QuickApply is a free browser extension that simplifies the job application process by automatically filling application forms using information from your HackerRank profile.
+
+Clear and precise questions help you effectively evaluate candidates' skills and potential. HackerRank is dedicated to continuo...",Strong match found (confidence: 1.00); answer sourced from hackerrank\integrations\applicant-tracking-systems\oracle-recruiting-cloud\3350882088-oracle-recruiting-cloud-and-hackerrank-integration-user-guide.md and hackerrank\hackerrank_community\additional-resources\job-search-and-applications\7358354033-set-up-quick-apply.md and hackerrank\general-help\release-notes\8074371720-january-2025-release-notes.md,product_issue
+replied,features,"Simulates AI-focused interview rounds. You can practice how to apply AI in real-world scenarios, including working with LLMs, agents, and tools, and explain your approach during the interview.
+
+![AI-Powered Mock Interviews.gif](https://assets.usepylon.
+
+_Last updated: Sep 19, 2025, 3:43 PM (Last updated 7 months ago)_
+
+AI is changing how software is built, and thus changing how you hire and upskill developers. This release helps you stay ahead of the curve.
+
+With AI assistance in the IDE, you can now go beyond evaluating code correctness to assessi...
+
+Custom Reports offer a powerful new way t...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\4368819843-april-2026-release-notes.md and hackerrank\general-help\release-notes\3121307537-july-2025-release-notes.md and hackerrank\general-help\release-notes\5686123513-april-2025-release-notes.md,product_issue
+escalated,general,"Thank you for contacting us. Given the sensitive nature of your request, we're routing this to our senior support team for immediate attention.",Adversarial tone detected; escalating for specialized handling,product_issue
+replied,features,"**Screen Mirroring Detection in Desktop App**
+
+The HackerRank Desktop App can now detect screen mirroring, extending its existing multiple-monitor detection feature to identify when a candidate’s screen is duplicated on another display.
+
+The upgraded Summary Report gives you a more complete view of each attempt, with improved data visibility, faster access, and easier next steps:
+
+- Benchmark calculations include data from 2025 attempts, so comparisons reflect the most recent performance trends.
+
+_Last updated: Nov 27, 2025, 3:38 PM (Last updated 5 months ago)_
+
+Next-gen developers don’t just...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\4368819843-april-2026-release-notes.md and hackerrank\general-help\release-notes\2321596225-january-2026-release-notes.md and hackerrank\general-help\release-notes\8474307750-october-2025-release-notes.md,bug
+replied,features,"In response to candidate feedback, the candidate test-taking experience has been redesigned with a cleaner UI, improved layout controls, and a more straightforward onboarding flow.
+
+- **Modern UI**: The interface has been updated for coding, database, and multiple-choice questions.
+
+**Note:** Must be a new test with no attempts. 
+
+Proctor Mode brings AI-powered integrity monitoring to your assessments, offering the rigor of live proctoring without the overhead. It tracks webcam activity, tab switches, and takes screenshots during the test, delivering a post-test report with a f...
+
+**Screen Mi...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\5686123513-april-2025-release-notes.md and hackerrank\general-help\release-notes\3121307537-july-2025-release-notes.md and hackerrank\general-help\release-notes\4368819843-april-2026-release-notes.md,product_issue
+replied,features,"**Note:** Must be a new test with no attempts. 
+
+Proctor Mode brings AI-powered integrity monitoring to your assessments, offering the rigor of live proctoring without the overhead. It tracks webcam activity, tab switches, and takes screenshots during the test, delivering a post-test report with a f...
+
+<table>
+<colgroup>
+<col style=""width: 33%"" />
+<col style=""width: 33%"" />
+<col style=""width: 33%"" />
+</colgroup>
+<tbody>
+<tr>
+<td data-colspan=""1"" data-rowspan=""1"" style=""background-color: #eafcef; height: 22px""><p><strong>Term</strong></p></td>
+<td data-colspan=""1"" data-rowspan=""1"" style=""backg...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\3121307537-july-2025-release-notes.md and hackerrank\screen\getting-started\3572240492-hackerrank-glossary.md,feature_request
+replied,general,"<table>
+<colgroup>
+<col style=""width: 100%"" />
+</colgroup>
+<tbody>
+<tr>
+<td data-colspan=""1"" data-rowspan=""1"" style=""width: 100%""><p><em>Subject:</em> <strong>&lt;Company&gt; &lt;Test Name&gt;</strong> Assessment Invitation</p>
+<p><em>Email Body:</em></p>
+<p>Hi <strong>&lt;Candidate&gt;</strong>,</p...
+
+_Last updated: Apr 22, 2026, 11:14 AM (Last updated 4 days ago)_
+
+Code Repository lets you create multiple questions from a single repository. Each question can assess a different objective, such as fixing a bug, building a feature, or working on a specific part of the application, while reusin...",Strong match found (confidence: 1.00); answer sourced from hackerrank\uncategorized\9695299159-onboarding-candidates.md and hackerrank\library\question-types\projects-questions\1900882930-code-repository-questions.md,bug
+replied,features,"Hiring iOS developers just got easier. You can now assess iOS development skills in an environment that mirrors how iOS apps are actually built, with a multi-file structure, Swift syntax support, and intelligent autocomplete. These assessments also support frameworks like SwiftUI.
+
+_Last updated: Nov 27, 2025, 3:38 PM (Last updated 5 months ago)_
+
+Next-gen developers don’t just write code; they orchestrate AI across the entire software development lifecycle. This evolution is reshaping not only how software gets built, but also what skills matter most in hiring and upskilling.
+
+_Last updated:...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\3121307537-july-2025-release-notes.md and hackerrank\general-help\release-notes\8474307750-october-2025-release-notes.md and hackerrank\general-help\release-notes\5686123513-april-2025-release-notes.md,product_issue
+escalated,billing,This billing matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (billing) requires human escalation,product_issue
+replied,general,"The objective is not to build a program or to own a rollout. It is to establish a small number of lightweight habits that allow momentum to continue after you have stopped actively driving it. When questions in the channel are being answered by people other than you, the role has done its job.
+
+Claude Cowork uses the same agentic architecture that powers Claude Code, now accessible within Claude Desktop and without opening the terminal. Instead of responding to prompts one at a time, Claude can take on complex, multi-step tasks and execute them on your behalf.
+
+_Last updated: 2026-04-15T01:12:...",Strong match found (confidence: 1.00); answer sourced from claude\claude-code\launch-guides\14555399-claude-code-champion-kit.md and claude\claude\features-and-capabilities\13345190-get-started-with-claude-cowork.md and claude\claude-code\launch-guides\14554000-claude-code-power-user-tips.md,bug
+escalated,fraud,This fraud matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (fraud) requires human escalation,product_issue
+replied,general,"To create a resume from scratch:
+
+1.  Log in to [HackerRank Community](https://www.hackerrank.com/auth/login) using your credentials.
+
+2.  Click the **App Switcher** (grid icon) in the top-right corner.
+
+3.  Select **Resume Builder** from the dropdown menu.
+
+4.  Click **Create New**.
+
+5.
+
+The HackerRank Community offers the following features:
+
+**Practice and improve coding skills**
+
+- **Problem library:** Solve thousands of coding challenges across various domains such as algorithms, data structures, artificial intelligence, machine learning, and more.
+
+To apply for a job:
+
+1.  Log in to [Hac...",Strong match found (confidence: 1.00); answer sourced from hackerrank\hackerrank_community\additional-resources\job-search-and-applications\9106957203-create-a-resume-with-resume-builder.md and hackerrank\hackerrank_community\getting-started\1995877061-introduction-to-hackerrank-community.md and hackerrank\hackerrank_community\additional-resources\job-search-and-applications\1560975739-search-for-jobs.md,product_issue
+replied,features,"The revamped codeplayer gives reviewers more context when a candidate is flagged for plagiarism. Now, you can see detailed reasons for why a candidate was flagged, along with the specific time frame where potential suspicious activity may have occurred.
+
+<table>
+<colgroup>
+<col style=""width: 100%"" />
+</colgroup>
+<tbody>
+<tr>
+<td data-colspan=""1"" data-rowspan=""1"" style=""width: 100%""><p><em>Subject:</em> <strong>&lt;Company&gt; &lt;Test Name&gt;</strong> Assessment Invitation</p>
+<p><em>Email Body:</em></p>
+<p>Hi <strong>&lt;Candidate&gt;</strong>,</p...
+
+1.  Log in to HackerRank with an Adminis...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\1189675016-october-2024-release-notes.md and hackerrank\uncategorized\9695299159-onboarding-candidates.md and hackerrank\integrations\applicant-tracking-systems\oracle-recruiting-cloud\8672148210-oracle-recruiting-cloud---hackerrank-integration-setup-guide.md,product_issue
+escalated,billing,This billing matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (billing) requires human escalation,product_issue
+replied,general,"- [Assign tasks from anywhere in Claude Cowork](claude/features-and-capabilities/13947068-assign-tasks-from-anywhere-in-claude-cowork.md)
+- [Available beta and research preview features](claude/features-and-capabilities/14503520-available-beta-and-research-preview-features.
+
+Our cyber safeguards currently block two categories of activities:
+
+- **Prohibited use:** Cybersecurity activities that are almost always used maliciously and have little to no legitimate defensive application such as mass data exfiltration or ransomware code development.
+
+- [Reporting, Blocking, and Removing Content from...",Strong match found (confidence: 1.00); answer sourced from claude\index.md and claude\safeguards\14604842-real-time-cyber-safeguards-on-claude.md and claude\safeguards\11427875-public-vulnerability-reporting.md,product_issue
+replied,general,"_Last updated: 2026-04-07T21:18:35Z_
+
+As per industry standard, Anthropic uses a variety of robots to gather data from the public web for model development, to search the web, and to retrieve web content at users’ direction.
+
+- [Does Anthropic crawl data from the web, and how can site owners block the crawler?](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler)
+- [API Safeguards Tools](https://support.claude.
+
+If you haven't installed Claude Desktop yet and want to check if your computer will support Cowork, click th...",Strong match found (confidence: 1.00); answer sourced from claude\privacy-and-legal\8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler.md and claude\privacy-and-legal\12335811-report-a-concern-australian-dis-standard-compliance.md and claude\claude\features-and-capabilities\13345190-get-started-with-claude-cowork.md,product_issue
+replied,general,"Disputes refer to the reversal of the value (in whole or in part) of a transaction by the card issuer to the acquirer, and usually, by the merchant bank to the merchant. Chargeback can be costly for merchants – you could lose both the cash amount of the transaction as well as the related merchandise...
+
+For suspicious transactions, e-commerce merchants should establish effective procedures for cardholder verification calls. Contacting customers directly not only reduces fraud risk, but also builds customer confidence and loyalty.
+
+Using your Visa payment card when you travel is safer than carr...",Strong match found (confidence: 1.00); answer sourced from visa\support\small-business\dispute-resolution.md and visa\support\small-business\fraud-protection.md and visa\support\consumer\travel-support.md,product_issue
+replied,general,"_Last updated: 2026-04-03T16:16:48Z_
+
+This article explains how to connect Claude to Microsoft 365 using our pre-built MCP connector, allowing Claude to search, analyze, and access information across SharePoint, OneDrive, Outlook, and Teams.
+
+Review these resources and visit the [Privacy Center](https://privacy.anthropic.com/en/) for information about privacy, data retention, and data handling:
+
+- [Is my data used for model training?](https://privacy.anthropic.
+
+We know that handing over an ID is a meaningful ask, and we've designed this process to protect your information at every step.
+
+- An...",Strong match found (confidence: 1.00); answer sourced from claude\connectors\pre-built-connectors\12542951-enable-and-use-the-microsoft-365-connector.md and claude\claude-for-education\11139144-faqs-on-using-claude-for-education-at-your-university.md and claude\safeguards\14328960-identity-verification-on-claude.md,product_issue
+replied,features,"New AI-powered integrity signals provide greater visibility into candidate behavior during assessments. These signals appear in the Integrity Summary and as timestamped events in Session Replay.
+
+**Object Detection in Webcam Feed**
+
+Object Detection in Proctor Mode identifies and flags mobile phones...
+
+_Last updated: Sep 19, 2025, 3:43 PM (Last updated 7 months ago)_
+
+AI is changing how software is built, and thus changing how you hire and upskill developers. This release helps you stay ahead of the curve.
+
+With AI assistance in the IDE, you can now go beyond evaluating code correctness to as...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\4368819843-april-2026-release-notes.md and hackerrank\general-help\release-notes\3121307537-july-2025-release-notes.md,product_issue
+escalated,fraud,This fraud matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (fraud) requires human escalation,product_issue
+escalated,general,"Thank you for contacting us. Given the sensitive nature of your request, we're routing this to our senior support team for immediate attention.",Adversarial tone detected; escalating for specialized handling,bug
+replied,features,"_Last updated: Nov 27, 2025, 3:38 PM (Last updated 5 months ago)_
+
+Next-gen developers don’t just write code; they orchestrate AI across the entire software development lifecycle. This evolution is reshaping not only how software gets built, but also what skills matter most in hiring and upskilling.
+
+To access the interview scorecards:
+
+1.  Log in to your **HackerRank for Work** account using your credentials.
+
+2.  Go to **Interviews \> Scorecards**.
+
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192822729-image.
+
+Custom tests let you design assessment...",Strong match found (confidence: 1.00); answer sourced from hackerrank\general-help\release-notes\8474307750-october-2025-release-notes.md and hackerrank\interviews\scoring-and-reports\9842091173-interview-scorecards.md and hackerrank\screen\managing-tests\6967597139-creating-a-new-test.md,product_issue
+escalated,compliance,This compliance matter requires immediate attention from our support team and cannot be fully addressed automatically. A specialist will contact you shortly.,High-risk category (compliance) requires human escalation,product_issue
+replied,general,"In general, a merchant is not permitted to establish a minimum or maximum amount for a Visa transaction. However, exceptions apply in the USA and US territories – like Puerto Rico, the US Virgin Islands and Guam.
+
+Trust your instincts! If a sale seems too good to be true, it probably is. We hear all too often that what a merchant thought was a great sale turned out to be fraud. So take the time to check out that huge order that is being shipped halfway around the world to a customer with whom you have never d...
+
+Visa uses interchange reimbursement fees as transfer fees between acquiring banks...",Strong match found (confidence: 1.00); answer sourced from visa\support.md and visa\support\small-business\fraud-protection.md and visa\support\small-business\regulations-fees.md,product_issue
